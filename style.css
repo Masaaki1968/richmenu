@@ -1,0 +1,14 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+.responsive-image {
+    background-image: url('richmenu1.png');
+    background-size: cover;
+    background-position: center;
+    width: 2500px;
+    height: 1600px;
+}
